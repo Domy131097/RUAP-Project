@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeafMLClientApp", "LeafMLClientApp\LeafMLClientApp.csproj", "{0EE2E9D5-A0A1-4649-B94F-A6CA911538FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE2E9D5-A0A1-4649-B94F-A6CA911538FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE2E9D5-A0A1-4649-B94F-A6CA911538FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE2E9D5-A0A1-4649-B94F-A6CA911538FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE2E9D5-A0A1-4649-B94F-A6CA911538FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DE7D8F9-CB41-4389-BBA0-C74AFB0C040D}
+	EndGlobalSection
+EndGlobal
